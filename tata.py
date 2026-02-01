@@ -1,1 +1,1 @@
-print("Tata baby")
+print("")
